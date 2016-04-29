@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.i("","=======  第一次添加log");
+        Log.i("","======  第二次添加log！！");
     }
 }
